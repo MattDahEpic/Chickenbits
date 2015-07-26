@@ -1,0 +1,16 @@
+[
+{
+  "modid": "anchickenbits",
+  "name": "Approaching Nirvana's Chicken Bits",
+  "description": "Bits of chicken, great for eating.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MattDahEpic"],
+  "credits": "chickenbits",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
